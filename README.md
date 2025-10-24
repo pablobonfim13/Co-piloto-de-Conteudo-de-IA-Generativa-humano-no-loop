@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Bonfim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil-aqui/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Bonfim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-bonfim-63099128b/)
 
 Uma plataforma interativa em Python para a co-criação de documentos analíticos, aplicando frameworks acadêmicos de **Human-in-the-Loop (HITL)** para fundir a velocidade da IA com o julgamento crítico humano.
 
