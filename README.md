@@ -12,9 +12,6 @@ Uma plataforma interativa em Python para a co-criação de documentos analítico
 
 Este projeto nasceu da necessidade de superar a geração de conteúdo genérico por IA. Em vez de uma ferramenta "aperta-botão", o Co-piloto de Conteúdo é um **estúdio de criação interativo** que posiciona o usuário como **Editor-Chefe** e a IA como um **assistente de pesquisa e redação**. O resultado é um workflow simbiótico que produz whitepapers, e-books e análises de mercado com uma profundidade e coerência que a automação pura não consegue alcançar.
 
-![GIF do Projeto em Ação](link_para_seu_gif_aqui.gif)
-*(Sugestão: Grave um GIF do seu terminal rodando o script para mostrar o processo interativo!)*
-
 ---
 
 ### Principais Funcionalidades
